@@ -1,0 +1,15 @@
+[project]
+name = "jarl"
+version = "0.0.4"
+description = "Some jax helpers for RL"
+readme = "README.md"
+dependencies = [
+    "jax",
+    "optax",
+    "jaxopt",
+]
+authors = [
+    { name = "Elias F. Fyksen", email = "github@fyksen.net" },
+]
+license = {file = "LICENSE"}
+keywords = ["jax", "Reinforcement Learning"]
