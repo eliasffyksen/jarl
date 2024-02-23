@@ -1,3 +1,5 @@
-# JaRL
+![JaRL logo](./imgs/logo_small.png)
 
-<WIP>
+# Jax Reinforcement Learning
+
+Just a library with some useful RL helpers in JAX.
